@@ -1,0 +1,16 @@
+*.log
+*.tar
+*.apk
+*.zip
+*.tar.gz
+*.rar
+*.idea
+*.map
+*.exe
+package-lock.json
+**/node_modules/
+**/log/
+**/free
+**/package-lock
+**/v2configs/
+**/bin/
